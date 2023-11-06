@@ -26,4 +26,11 @@
 
 
 ## Here's what I did in project 2:
-At the end of this project you will have written all RISC-V assembly code necessary to run a simple Artificial Neural Network (ANN) on the Venus RISC-V simulator. In part A you will implement the basic operations such as a vector dot product, matrix-matrix multiplication, the argmax and an activation function. In part B you will combine these basic functions in order to load a pretrained network and execute it to classify handwritten digets from the MNIST benchmark set.
+The project involves the creation of a comprehensive set of RISC-V assembly code for the execution of a basic Artificial Neural Network (ANN) using the Venus RISC-V simulator.
+In the initial phase (Part A), fundamental operations such as vector dot products, matrix-matrix multiplications, the argmax function, and an activation function will be implemented. 
+Subsequently (Part B), these foundational functions will be integrated to facilitate the loading of a pre-trained network and the execution of digit classification tasks using the MNIST benchmark dataset.
+
+
+
+
+
